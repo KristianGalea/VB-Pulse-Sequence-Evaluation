@@ -1,0 +1,8 @@
+fslpy==3.20.0
+matplotlib==3.8.4
+nilearn==0.10.3
+nibabel==5.2.1
+numpy==1.26.4
+pandas==2.1.4
+templateflow==24.2.0
+antspyx==0.4.2
