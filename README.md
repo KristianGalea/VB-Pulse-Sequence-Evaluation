@@ -1,4 +1,6 @@
-# Paper-code
+# Comparing a novel local homogeneity measure with the general linear model across functional MRI pulse sequences.
+
+The following subsections describe the different Python scripts used to perform the analysis.
 
 ## Installing the python packages needed
 The python packages required to run both the glm_final.py and the vb_statistical_final.py code may be installed using the requirements.txt. To install via pip, run the following:
